@@ -4,7 +4,7 @@ A new Flutter application.
 This Flutter App was made under the GRIP(Graduate Rotational Internship Program) to complete the  Mobile App Development Internship Task of The Sparks Foundation.
 
 This app is made in Flutter and uses Firebase and Cloud Firestore for its social integration. It is flexible to run in various range of devices including iOS,android and tablets.
-
+To see the UI of app;check assets folder.
 
 
 YOUTUBE link - https://youtu.be/ZPU8-rD3J5E
